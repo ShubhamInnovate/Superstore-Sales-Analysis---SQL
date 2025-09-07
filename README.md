@@ -35,13 +35,13 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 ![Top Products](query1.png)  
 
 **2️⃣ Second Highest Product Sales**  
-![Second Highest](query2.png)  
+![Second Highest](Question 16 Second Highest Product by Total Sales..png)  
 
 **3️⃣ Sales by Category**  
-![Category Sales](query3.png)  
+![Category Sales](Question 1 Total Sales and Profit by Category.png)  
 
 **4️⃣ Regional Sales Analysis**  
-![Regional Sales](query4.png)  
+![Regional Sales](Question 11Regional Performance with Ranking..png)  
 
 **5️⃣ Customer Purchase Insights**  
 ![Customer Insights](query5.png)  
