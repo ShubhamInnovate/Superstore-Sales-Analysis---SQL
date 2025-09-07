@@ -33,7 +33,7 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 ### Sales & Profit Analysis
 
-**1️⃣ Total Sales & Profit by Category** ![Total_Sales_and_Profit_by_Category](Question 1 Total Sales and Profit by Category.png) 
+**1️⃣ Total Sales & Profit by Category** ![Total Sales and Profit by Category](q1_sales_profit_by_category.png) 
 
 **2️⃣ Top 5 Profitable Products** ![Top 5 Profitable Products](Question 9 Top 5 Profitable Products.png) 
 
