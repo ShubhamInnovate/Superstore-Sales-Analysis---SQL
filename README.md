@@ -49,7 +49,7 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 ### Customer & Regional Insights
 
-**7️⃣ Top 5 Customers by Total Sales** ![Top 5 Customers by Total Sales](Question 6 Find the top 5 customers with the highest total sales.png) 
+**7️⃣ Top 5 Customers by Total Sales** ![q7_monthly_sales_trend.png](Question 6 Find the top 5 customers with the highest total sales.png) 
 
 **8️⃣ Top 5 Customers by Total Profit** ![Top 5 Customers by Total Profit](Question 2 Top 5 Customers by Total Profit..png) 
 
