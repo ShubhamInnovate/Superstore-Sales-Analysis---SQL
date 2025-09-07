@@ -76,7 +76,7 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 ## 🚀 How to Use
 1. Clone this repository
     ```bash
-    git clone [https://github.com/your-username/Superstore-SQL-Analysis.git](https://github.com/your-username/Superstore-SQL-Analysis.git)
+    git clone [https://github.com/ShubhamInnovate/Superstore-SQL-Analysis.git](https://github.com/ShubhamInnovate/Superstore-SQL-Analysis.git)
     ```
 2. Import the Superstore Dataset into a SQL Server database.
 3. Run the queries from the `Analysis.sql` file to reproduce the results.
