@@ -35,15 +35,15 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 **1️⃣ Total Sales & Profit by Category** ![Total Sales and Profit by Category](q1_sales_profit_by_category.png) 
 
-**2️⃣ Top 5 Profitable Products** ![Top 5 Profitable Products](Question 9 Top 5 Profitable Products.png) 
+**2️⃣ Top 5 Profitable Products** ![Top 5 Profitable Products](q2_top5_customers_profit.png) 
 
-**3️⃣ Second Highest Product by Total Sales** ![Second Highest Product by Total Sales](Question 16 Second Highest Product by Total Sales..png) 
+**3️⃣ Second Highest Product by Total Sales** ![Second Highest Product by Total Sales](q3_monthly_sales_trend.png) 
 
-**4️⃣ Monthly Sales Trend** ![Monthly Sales Trend](Question 3 Monthly Sales Trend.png) 
+**4️⃣ Monthly Sales Trend** ![Monthly Sales Trend](q4_profit_by_region.png) 
 
-**5️⃣ Monthly Sales & Profit Trend** ![Monthly Sales & Profit Trend](Question 7 Monthly Sales Trend..png) 
+**5️⃣ Monthly Sales & Profit Trend** ![Monthly Sales & Profit Trend](q5_top5_products_quantity.png) 
 
-**6️⃣ Year-over-Year (YoY) Growth in Sales** ![Year-over-Year Growth in Sales](Question 8 YoY Growth in Sales..png) 
+**6️⃣ Year-over-Year (YoY) Growth in Sales** ![Year-over-Year Growth in Sales](q6_top5_customers_sales.png) 
 
 ---
 
