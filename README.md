@@ -31,45 +31,37 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 ## 📷 Query Outputs 
 
-### Sales & Profit Analysis
-
 **1️⃣ Total Sales & Profit by Category** ![Total Sales and Profit by Category](q1_sales_profit_by_category.png) 
 
-**2️⃣ Top 5 Profitable Products** ![Top 5 Profitable Products](q2_top5_customers_profit.png) 
+**2️⃣ Top 5 Profitable Customers** ![Top 5 Profitable Products](q2_top5_customers_profit.png) 
 
-**3️⃣ Second Highest Product by Total Sales** ![Second Highest Product by Total Sales](q3_monthly_sales_trend.png) 
+**3️⃣ Monthly Sales Trend** ![Monthly Sales Trend](q3_monthly_sales_trend.png) 
 
-**4️⃣ Monthly Sales Trend** ![Monthly Sales Trend](q4_profit_by_region.png) 
+**4️⃣ Profit by Region** ![Profit by Region](q4_profit_by_region.png) 
 
-**5️⃣ Monthly Sales & Profit Trend** ![Monthly Sales & Profit Trend](q5_top5_products_quantity.png) 
+**5️⃣ Top 5 Products by Quantity Sold** ![Top 5 Products by Quantity Sold](q5_top5_products_quantity.png) 
 
-**6️⃣ Year-over-Year (YoY) Growth in Sales** ![Year-over-Year Growth in Sales](q6_top5_customers_sales.png) 
+**6️⃣ Top 5 Customers by Total Sales** ![Top 5 Customers by Total Sales](q6_top5_customers_sales.png) 
 
----
+**7️⃣ Monthly Sales Trend** ![Monthly Sales Trend](q7_monthly_sales_trend.png) 
 
-### Customer & Regional Insights
+**8️⃣ Year-over-Year (YoY) Growth in Sales** ![Year-over-Year Growth in Sales](q8_yoy_sales_growth.png) 
 
-**7️⃣ Top 5 Customers by Total Sales** ![q7_monthly_sales_trend.png](Question 6 Find the top 5 customers with the highest total sales.png) 
+**9️⃣ Top 5 Customers by Total Profit** ![Top 5 Customers by Total Profit](q9_top5_profitable_products.png) 
 
-**8️⃣ Top 5 Customers by Total Profit** ![Top 5 Customers by Total Profit](Question 2 Top 5 Customers by Total Profit..png) 
+**🔟 Loss-Making Products** ![Loss-Making Products](q10_loss_making_products.png) 
 
-**9️⃣ Customer Segmentation** ![Customer Segmentation](Question 12 Customer Segmentation (High Value vs Low Value)..png) 
+**1️⃣1️⃣ Regional Performance with Ranking** ![Regional Performance with Ranking](q11_regional_performance_rank.png) 
 
-**🔟 Top 3 Customers in Each Region** ![Top 3 Customers in Each Region](Question 14 Top 3 Customers in Each Region.png) 
+**1️⃣2️⃣  Customer Segmentation** ![Customer Segmentation](q12_customer_segmentation.png) 
 
-**1️⃣1️⃣ Regional Performance with Ranking** ![Regional Performance with Ranking](Question 11Regional Performance with Ranking..png) 
+**1️⃣3️⃣  Shipping Speed Impact on Profit** ![Shipping Speed Impact on Profit](q13_shipping_speed_profit.png)  
 
-**1️⃣2️⃣ Second Highest Sales per Region** ![Second Highest Sales per Region](Question 15 Second Highest Sales per Region..png) 
+**1️⃣4️⃣  Top 3 Customers in Each Region** ![Top 3 Customers in Each Region](q14_top3_customers_region.png) 
 
----
+**1️⃣5️⃣  Second Highest Sales per Region** ![Second Highest Sales per Region](q15_second_highest_sales_region.png) 
 
-### Product & Shipping Performance
-
-**1️⃣3️⃣ Top 5 Products by Quantity Sold** ![Top 5 Products by Quantity Sold](Question 5 Top 5 Products by Quantity Sold..png) 
-
-**1️⃣4️⃣ Loss-Making Products** ![Loss-Making Products](Question 10 Loss-Making Products (High Sales but Negative Profit)..png) 
-
-**1️⃣5️⃣ Shipping Speed Impact on Profit** ![Shipping Speed Impact on Profit](Question 13 Shipping Speed Impact on Profit..png) 
+**1️⃣6️⃣ Second Highest Product By Sales** ![Second Highest Product By Sales](q16_second_highest_product_sales.png) 
 
 ---
 
@@ -80,7 +72,11 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 ---
 
-## 🚀 How to Use 
-1. Clone this repository 
-   ```bash
-   git clone [https://github.com/your-username/Superstore-SQL-Analysis.git](https://github.com/your-username/Superstore-SQL-Analysis.git)
+
+## 🚀 How to Use
+1. Clone this repository
+    ```bash
+    git clone [https://github.com/your-username/Superstore-SQL-Analysis.git](https://github.com/your-username/Superstore-SQL-Analysis.git)
+    ```
+2. Import the Superstore Dataset into a SQL Server database.
+3. Run the queries from the `Analysis.sql` file to reproduce the results.
