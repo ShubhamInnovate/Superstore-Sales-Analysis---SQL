@@ -65,11 +65,4 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 ---
 
-## 🛠️ Tech Stack 
-- SQL Server 2019 
-- Superstore Dataset 
-- GitHub for version control 
-
----
-
 
