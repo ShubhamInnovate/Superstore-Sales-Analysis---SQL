@@ -13,14 +13,7 @@ The aim is to derive meaningful business insights with **advanced SQL queries** 
 ## 🗂 Dataset 
 Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) 
 
----
 
-## 🔑 Key SQL Concepts Used 
-- **CTEs & Subqueries** – reusable query blocks 
-- **Window Functions** – RANK, ROW_NUMBER, NTILE, LAG
-- **Aggregations** – SUM, COUNT, AVG, GROUP BY 
-- **Joins** – combining multiple tables 
-- **Filtering & Sorting** – advanced WHERE + ORDER BY 
 
 ---
 
@@ -63,6 +56,15 @@ Dataset Source: [Superstore Dataset (Kaggle)](https://www.kaggle.com/datasets/vi
 
 **1️⃣6️⃣ Second Highest Product By Sales** ![Second Highest Product By Sales](Q16.png) 
 
+
+---
+
+## 🔑 Key SQL Concepts Used 
+- **CTEs & Subqueries** – reusable query blocks 
+- **Window Functions** – RANK, ROW_NUMBER, NTILE, LAG
+- **Aggregations** – SUM, COUNT, AVG, GROUP BY 
+- **Joins** – combining multiple tables 
+- **Filtering & Sorting** – advanced WHERE + ORDER BY 
 ---
 
 
